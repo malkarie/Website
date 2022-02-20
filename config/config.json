@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF1b4416dE3130A5f1a0371Df757f225a7CcD6721",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xF1b4416dE3130A5f1a0371Df757f225a7CcD6721",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Krazy Kitten Bean Klub Demo",
+  "SYMBOL": "KKBK",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kittenbeansdemo-v2",
+  "SHOW_BACKGROUND": true
+}
